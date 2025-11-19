@@ -1,4 +1,4 @@
-// 2154. Keep Multiplying Found Values by Two
+// 2154. Keep Multiplying Found Values by Two (19.nov.2025)
 #include <iostream>
 using namespace std;
 
