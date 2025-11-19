@@ -1,4 +1,5 @@
-// 1437. Check If All 1's Are at Least Length K Places Away
+// 1437. Check If All 1's Are at Least Length K Places Away (17.nov.2025)
+
 #include <iostream>
 using namespace std;
 
