@@ -1,4 +1,5 @@
 // 717. 1-bit and 2-bit Characters (18.nov.2025)
+
 #include <iostream>
 using namespace std;
 
