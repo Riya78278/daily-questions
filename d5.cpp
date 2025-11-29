@@ -1,4 +1,5 @@
 // Majority Element
+
 #include <iostream>
 using namespace std;
 
