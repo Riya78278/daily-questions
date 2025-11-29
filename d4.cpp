@@ -1,4 +1,5 @@
 // Minimum Jumps (19.nov.2025)
+
 #include <iostream>
 using namespace std;
 
