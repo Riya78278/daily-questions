@@ -1,4 +1,5 @@
 // 2211. Count Collisions on a Road
+
 #include <iostream>
 using namespace std;
 
