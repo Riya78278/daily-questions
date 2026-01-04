@@ -1,4 +1,5 @@
 // Number of Ways to Paint N × 3 Grid
+
 #include<iostream>
 using namespace std;
 
