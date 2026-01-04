@@ -1,4 +1,5 @@
 // 3606. Coupon Code Validator
+
 #include <iostream>
 using namespace std;
 class Solution {
