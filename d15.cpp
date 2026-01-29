@@ -1,4 +1,5 @@
 // 3623. Count Number of Trapezoids I
+
 #include <iostream>
 using namespace std;
 
