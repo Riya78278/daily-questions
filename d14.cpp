@@ -1,6 +1,5 @@
 // 3381. Maximum Subarray Sum With Length Divisible by K (27.nov.2025)
 
-
 #include <iostream>
 using namespace std;
 
