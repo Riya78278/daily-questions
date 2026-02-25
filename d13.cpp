@@ -1,5 +1,6 @@
 // 1015 Smallest Integer Divisible by K 
 
+
 #include <iostream>
 using namespace std;
 
