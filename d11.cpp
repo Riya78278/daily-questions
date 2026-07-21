@@ -1,6 +1,5 @@
 // Binary Prefix Divisible By 5 (24.nov.2025)
 
-
 #include <iostream>
 using namespace std;
 
